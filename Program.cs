@@ -44,7 +44,7 @@ namespace WBParserAPI
 
                         foreach (var row in result.data.products)
                         {
-                            if(row.promoTextCat == null)
+                            if(row.promoTextCat != "ДЕНЬ ШОПИНГА")
                             {
                                 excelSheet.Cells[excelRow, "A"].Value = row.name;
                                 excelSheet.Cells[excelRow, "B"].Value = row.brand;
