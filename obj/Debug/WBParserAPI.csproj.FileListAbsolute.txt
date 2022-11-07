@@ -1,0 +1,11 @@
+A:\Projects\WBParserAPI\WBParserAPI\bin\Debug\WBParserAPI.exe.config
+A:\Projects\WBParserAPI\WBParserAPI\bin\Debug\WBParserAPI.exe
+A:\Projects\WBParserAPI\WBParserAPI\bin\Debug\WBParserAPI.pdb
+A:\Projects\WBParserAPI\WBParserAPI\bin\Debug\Newtonsoft.Json.dll
+A:\Projects\WBParserAPI\WBParserAPI\bin\Debug\Newtonsoft.Json.xml
+A:\Projects\WBParserAPI\WBParserAPI\obj\Debug\WBParserAPI.csproj.AssemblyReference.cache
+A:\Projects\WBParserAPI\WBParserAPI\obj\Debug\WBParserAPI.csproj.SuggestedBindingRedirects.cache
+A:\Projects\WBParserAPI\WBParserAPI\obj\Debug\WBParserAPI.csproj.CoreCompileInputs.cache
+A:\Projects\WBParserAPI\WBParserAPI\obj\Debug\WBParserAPI.csproj.CopyComplete
+A:\Projects\WBParserAPI\WBParserAPI\obj\Debug\WBParserAPI.exe
+A:\Projects\WBParserAPI\WBParserAPI\obj\Debug\WBParserAPI.pdb

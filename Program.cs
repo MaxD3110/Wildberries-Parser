@@ -10,11 +10,6 @@ namespace WBParserAPI
     {
         static void Main(string[] args)
         {
-            //System.Net.ServicePointManager.SecurityProtocol =
-            //    System.Net.SecurityProtocolType.Tls12
-            //    | System.Net.SecurityProtocolType.Ssl3
-            //    | System.Net.SecurityProtocolType.Tls
-            //    | System.Net.SecurityProtocolType.Tls11;
 
             try
             {
